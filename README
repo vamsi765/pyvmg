@@ -1,0 +1,12 @@
+# Parsing the VMG files backed up by Nokia OVI suite for N series phones
+
+Output format will be selected based on the output file extension
+
+Output formats supported:
+Text
+XML
+CSV
+
+Examples commands to run:
+python pyvmg.py --in_dir /test --out_filename my_msg.xml
+
